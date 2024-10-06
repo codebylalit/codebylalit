@@ -1,19 +1,8 @@
 # Hi there, I'm Lalit Kumar 👋
 
-**Software Engineer Fellow | Full-Stack Developer**
+**Software Engineer | Full-Stack Developer**
 
 I'm passionate about building efficient, scalable, and user-friendly web applications. I have a solid foundation in JavaScript, C++, and web development technologies. I enjoy solving problems and taking part in hackathons to sharpen my skills.
-
-## 🎓 Education
-
-**Vardhman Mahaveer Open University** (2022 - 2025)  
-*Bachelor of Computer Applications*  
-Kota, Raj.
-
-**Mohanlal Sukhadia University** (2021 - 2023)  
-*Bachelor of Arts*  
-Udaipur, Raj.  
-*Relevant Coursework:* Data Structures, Algorithms, C++, Web Development, Object-Oriented Programming.
 
 ## 🛠 Technical Skills
 
