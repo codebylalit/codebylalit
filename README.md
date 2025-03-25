@@ -1,7 +1,7 @@
-# Hi, I'm Lalit Namdev 👋
+# Hi, I'm Lalit 👋
 
 ## 🚀 About Me
-A passionate **Full-Stack Developer** transforming ideas into robust digital solutions. I craft innovative web and mobile applications that solve real-world problems.
+A passionate **FrontEnd Developer** transforming ideas into robust digital solutions. I craft innovative web and mobile applications that solve real-world problems.
 
 ## 🛠️ Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -54,17 +54,6 @@ A passionate **Full-Stack Developer** transforming ideas into robust digital sol
 - 🛒 Advanced shopping cart system
 - 🔐 Secure authentication
 - 📈 20% increase in user satisfaction
-
-### 5. Osheanic Website
-**Frontend Development Project**
-[![Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](https://your-demo-link)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=flat-square&logo=github)](https://github.com/yourusername/osheanic)
-
-**Technologies:** React | Modern Web Technologies
-- 🌐 Modern, responsive website
-- 💬 Integrated blogs and messaging
-- 🎨 Custom theme options
-- 📱 Cross-browser compatibility
 
 ## 🏆 Achievements
 - Top 50 Team, Odoo X Amalthea Hackathon
