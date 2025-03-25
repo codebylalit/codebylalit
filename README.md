@@ -7,7 +7,7 @@
   </a>
 </p>
 <div align="center">
-  🤖 Tech Alchemist | 🎥 Storyteller | 💻 Code Craftsman | 🌐 Digital Innovator
+  🤖 FrontEnd Engineer | 🎬 Filmmaker 
 </div>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,cpp,figma,github,vscode" />
@@ -16,7 +16,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=🚀+Profile+Views" alt="Profile Views"/>
 </p>
-# Hi, I'm Lalit👋
 
 ## 🚀 About Me
 A passionate **FrontEnd Developer** transforming ideas into robust digital solutions. I craft innovative web and mobile applications that solve real-world problems.
