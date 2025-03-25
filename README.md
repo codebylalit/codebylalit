@@ -40,8 +40,7 @@ A passionate **FrontEnd Developer** transforming ideas into robust digital solut
 
 ### 1. Caps.ai 
 **AI Instagram Caption Generator**
-[![Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](https://your-demo-link)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=flat-square&logo=github)](https://github.com/yourusername/caps-ai)
+[![Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](https://caps-ai-topaz.vercel.app/)
 
 **Technologies:** React | Tailwind CSS | Supabase | AI Generation
 - 🤖 AI-powered Instagram Caption Generator
@@ -51,8 +50,7 @@ A passionate **FrontEnd Developer** transforming ideas into robust digital solut
 
 ### 2. ApplyLog
 **Job Application Tracking System**
-[![Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](https://your-demo-link)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=flat-square&logo=github)](https://github.com/yourusername/applylog)
+[![Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](https://applylog.vercel.app/)
 
 **Technologies:** MERN Stack | JWT | Dashboard Analytics
 - 📋 Comprehensive job application management
@@ -62,8 +60,7 @@ A passionate **FrontEnd Developer** transforming ideas into robust digital solut
 
 ### 3. CalmlyAI Chatbot
 **Mental Health Support Platform**
-[![Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](https://your-demo-link)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=flat-square&logo=github)](https://github.com/yourusername/calmly-ai)
+[![Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](https://lalit-kumar-mental-wellness.vercel.app/)
 
 **Technologies:** React | Node.js | Gemini API
 - 🧠 AI-powered mental health support
@@ -73,8 +70,7 @@ A passionate **FrontEnd Developer** transforming ideas into robust digital solut
 
 ### 4. Lucky Fashion Store
 **Mobile E-commerce Application**
-[![Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](https://your-demo-link)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=flat-square&logo=github)](https://github.com/yourusername/lucky-fashion)
+[![Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](https://drive.google.com/file/d/1Ow1KAIqOqVWb7RJjiLELb1J4MZqsK1Lu/view)
 
 **Technologies:** React Native | Firebase | Tailwind CSS
 - 👗 Women's clothing shopping app
@@ -88,8 +84,8 @@ A passionate **FrontEnd Developer** transforming ideas into robust digital solut
 - Consistent innovation in full-stack development
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/lalitnamdev_)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:namdevlalit914@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=web)](https://your-portfolio-link)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=web)](https://lalit-portfolio1.netlify.app/about)
 
 *Turning coffee into code, one project at a time! ☕️💻*
