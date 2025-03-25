@@ -1,58 +1,60 @@
-# Hi there, I'm Lalit Kumar 👋
+# Hi there, I'm Lalit Namdev 👋
 
-**Software Engineer | Full-Stack Developer**
+## 🚀 About Me
+I'm a passionate **Full-Stack Developer** and **Software Engineer** with a strong focus on creating efficient, scalable, and user-friendly web applications. Currently pursuing my Bachelor of Computer Applications, I'm dedicated to continuous learning and solving real-world problems through innovative technology solutions.
 
-I'm passionate about building efficient, scalable, and user-friendly web applications. I have a solid foundation in JavaScript, C++, and web development technologies. I enjoy solving problems and taking part in hackathons to sharpen my skills.
+## 🛠️ Tech Stack
 
-## 🛠 Technical Skills
+### Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-- **Languages:** JavaScript, C/C++, HTML/CSS, TypeScript
-- **Frameworks:** ReactJS, React Native, Node.js, Express.js, AngularJS, Bootstrap, Tailwind CSS
-- **Developer Tools:** Git, VS Code, Visual Studio, GitHub, MySQL, MongoDB
-- **Libraries:** STL
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-## 💼 Experience
+### Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-### Software Engineer Fellow @ BuildSpace S5  
-_June 2024 - July 2024 | United States, Remote_
+## 🌟 Highlighted Projects
 
-- Developed and deployed "ApplyLog," a robust web application using the MERN stack.
-- Enabled users to efficiently track job applications, manage tasks, and utilize an interactive calendar.
-- Designed analytics features and JWT-based secure authentication.
-- Managed data using MongoDB and ensured a seamless user experience.
+### 1. Caps.ai 🚀
+An AI-powered Instagram Caption Generator built with React and Supabase
+- Implemented three AI generation modes
+- Achieved 30% user retention
+- Used custom hooks and reusable components
 
-### Frontend Developer (Contract)  
-_Aug 2024 - Present | India, Remote_
+### 2. ApplyLog 📋
+Job Application Tracking Web App using MERN Stack
+- Enhanced user productivity by 30%
+- Implemented secure JWT authentication
+- Built interactive calendar and analytics dashboard
 
-- Led the frontend development of the Oslenaic website, incorporating modern design and user-friendly features.
-- Built custom themes to allow users to personalize their browsing experience.
-- Ensured full responsiveness across devices and platforms.
+### 3. CalmlyAI Chatbot 🤖
+Mental Health Support Chatbot
+- Integrated Gemini API for accurate responses
+- Improved mental health topic accuracy by 50%
+- Enabled offline chat downloads
 
-## 📂 Projects
+## 🏆 Achievements
+- Top 50 Team, Odoo X Amalthea Hackathon (Dec 2024)
+- Software Engineer Fellow at BuildSpace S5
 
-### [ApplyLog](#) | MERN Stack  
-_June 2024_
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:namdevlalit914@gmail.com)
 
-- Developed a comprehensive web app for managing job applications.
-- Integrated task management and an analytics dashboard for enhanced productivity.
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-### [Lucky Fashion Store](#) | React Native, Tailwind CSS, Firebase  
-_Feb 2024_
-
-- Designed a women’s clothing shopping app with login/logout functionality.
-- Implemented a shopping cart system and integrated WhatsApp for order processing.
-- Used Firebase for real-time data storage and synchronization.
-
-## 🏆 Extra Activities
-
-### Odoo Combat 2024 (Hackathon)  
-_June 29, 2024_
-
-- Competed in a challenging hackathon, advancing to the first online round and gaining valuable experience in problem-solving and rapid development techniques.
-
-## 📫 How to Reach Me
-
-- Email: [namdevlalit914@gmail.com](mailto:namdevlalit914@gmail.com)
-- [LinkedIn](#)
-- [GitHub](#)
-
+*Continuously learning and expanding my technical horizons! 💻✨*
