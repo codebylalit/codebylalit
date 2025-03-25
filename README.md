@@ -1,3 +1,4 @@
+![Lalit Namdev - Full Stack Developer](https://raw.githubusercontent.com/yourusername/yourusername/main/cover.png)
 # Hi, I'm Lalit 👋
 
 ## 🚀 About Me
