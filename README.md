@@ -1,10 +1,20 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,6&height=200&section=header&text=Full%20Stack%20Developer&fontSize=50&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,6&height=200&section=header&text=Lalit%20Namdev%20🖥️&fontSize=50&animation=fadeIn" width="100%"/>
 </div>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=21F70E&center=true&width=600&lines=Transforming+Ideas+into+Digital+Solutions;Web+%26+Mobile+App+Developer;Always+Learning+%26+Creating" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=21F70E&center=true&width=700&lines=💻+Full+Stack+Developer+%26+Creative+Technologist;🚀+Transforming+Ideas+into+Digital+Solutions;🎬+Tech+Meets+Creativity;💡+Innovating+Web+%26+Mobile+Experiences" alt="Typing SVG" />
   </a>
+</p>
+<div align="center">
+  🤖 Tech Alchemist | 🎥 Storyteller | 💻 Code Craftsman | 🌐 Digital Innovator
+</div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,cpp,figma,github,vscode" />
+🛠️ Tech Toolkit | 🧠 Problem Solver | 🌈 Creative Coder
+</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=🚀+Profile+Views" alt="Profile Views"/>
 </p>
 # Hi, I'm Lalit👋
 
