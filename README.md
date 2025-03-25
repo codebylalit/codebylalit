@@ -1,17 +1,5 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,6&height=200&section=header&text=Hey%20i am Lalit%20&fontSize=50&animation=fadeIn" width="100%"/>
-</div>
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=21F70E&center=true&width=700&lines=💻+Full+Stack+Developer+%26+Creative+Technologist;🚀+Transforming+Ideas+into+Digital+Solutions;🎬+Tech+Meets+Creativity;💡+Innovating+Web+%26+Mobile+Experiences" alt="Typing SVG" />
-  </a>
-</p>
-<div align="center">
-  🤖 FrontEnd Engineer | 🎬 Filmmaker 
-</div>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=🚀+Profile+Views" alt="Profile Views"/>
-</p>
+
+Hi, I'm Lalit 👋
 
 ## 🚀 About Me
 A passionate **FrontEnd Developer** transforming ideas into robust digital solutions. I craft innovative web and mobile applications that solve real-world problems.
