@@ -86,6 +86,6 @@ A passionate **FrontEnd Developer** transforming ideas into robust digital solut
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/lalitnamdev)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:namdevlalit914@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=web)](https://lalit-portfolio1.netlify.app/about)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=web)](https://lalit-portfolio1.netlify.app/)
 
 *Turning coffee into code, one project at a time! ☕️💻*
