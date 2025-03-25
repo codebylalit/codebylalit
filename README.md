@@ -1,5 +1,6 @@
-![Lalit Namdev - Full Stack Developer](https://raw.githubusercontent.com/yourusername/yourusername/main/cover.png)
-# Hi, I'm Lalit 👋
+![Lalit Namdev - Full Stack Developer](https://images.unsplash.com/photo-1605379399642-870311c08e22?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1198&q=80)
+
+# Hi, I'm Lalit👋
 
 ## 🚀 About Me
 A passionate **FrontEnd Developer** transforming ideas into robust digital solutions. I craft innovative web and mobile applications that solve real-world problems.
