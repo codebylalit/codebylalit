@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,6&height=200&section=header&text=Lalit%20Namdev%20🖥️&fontSize=50&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,6&height=200&section=header&text=Lalit%20Namdev%20&fontSize=50&animation=fadeIn" width="100%"/>
 </div>
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -8,10 +8,6 @@
 </p>
 <div align="center">
   🤖 FrontEnd Engineer | 🎬 Filmmaker 
-</div>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,cpp,figma,github,vscode" />
-🛠️ Tech Toolkit | 🧠 Problem Solver | 🌈 Creative Coder
 </div>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=🚀+Profile+Views" alt="Profile Views"/>
