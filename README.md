@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://images.unsplash.com/photo-1488342968586-3c7b4f0dcfb7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80" alt="Lalit Namdev - Full Stack Developer" width="100%"/>
+<img src="https://unsplash.com/photos/flat-ray-photography-of-book-pencil-camera-and-with-lens-3OiYMgDKJ6k" alt="Lalit Namdev - Full Stack Developer" width="100%"/>
 </div>
 # Hi, I'm Lalit👋
 
