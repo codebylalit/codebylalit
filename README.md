@@ -1,6 +1,11 @@
 <div align="center">
-<img src="https://images.unsplash.com/photo-1605379399642-870311c08e22?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1198&q=80" alt="Lalit Namdev - Full Stack Developer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,6&height=200&section=header&text=Full%20Stack%20Developer&fontSize=50&animation=fadeIn" width="100%"/>
 </div>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=21F70E&center=true&width=600&lines=Transforming+Ideas+into+Digital+Solutions;Web+%26+Mobile+App+Developer;Always+Learning+%26+Creating" alt="Typing SVG" />
+  </a>
+</p>
 # Hi, I'm Lalit👋
 
 ## 🚀 About Me
