@@ -1,11 +1,7 @@
 # Hi, I'm Lalit 👋
 
 ## 🚀 About Me
-A passionate **Frontend Developer** specializing in building innovative web and mobile applications. I transform complex ideas into intuitive digital experiences that solve real-world problems.
-
-## 🎓 Education
-**Bachelor of Computer Applications**  
-Vardhman Mahaveer Open University, Kota, Rajasthan | 2022 – 2025
+i'm a software engineer who builds immersive and user friendly web applications that users loves and transform complex ideas into intuitive digital experiences that solve real-world problems.
 
 ## 🛠️ Tech Stack
 
@@ -53,7 +49,7 @@ Vardhman Mahaveer Open University, Kota, Rajasthan | 2022 – 2025
 ## 📂 Featured Projects
 
 ### Skooty & SkootyGO
-[![Demo](https://img.shields.io/badge/View-Project-brightgreen?style=flat-square)](https://your-link-here)
+[![Demo](https://img.shields.io/badge/View-Project-brightgreen?style=flat-square)](https://skooty.live/)
 
 **Technologies:** React Native | Firebase | Google Maps API | Node.js | Tailwind CSS
 
@@ -62,7 +58,7 @@ Vardhman Mahaveer Open University, Kota, Rajasthan | 2022 – 2025
 - ⚡ Automated ride-matching logic with Firebase Cloud Functions for instant updates
 
 ### Invoicelly
-[![Demo](https://img.shields.io/badge/View-Project-brightgreen?style=flat-square)](https://your-link-here)
+[![Demo](https://img.shields.io/badge/View-Project-brightgreen?style=flat-square)](https://www.invoicely.me/)
 
 **Technologies:** React (TypeScript) | Supabase | Razorpay | jsPDF | Tailwind CSS
 
@@ -71,7 +67,7 @@ Vardhman Mahaveer Open University, Kota, Rajasthan | 2022 – 2025
 - 📊 Streamlined client and item management for freelancers and small businesses
 
 ### NanoBanana
-[![Demo](https://img.shields.io/badge/View-Project-brightgreen?style=flat-square)](https://your-link-here)
+[![Demo](https://img.shields.io/badge/View-Project-brightgreen?style=flat-square)](https://nenobanana.site/)
 
 **Technologies:** React | Tailwind CSS | Supabase | Google Gemini API
 
@@ -80,7 +76,7 @@ Vardhman Mahaveer Open University, Kota, Rajasthan | 2022 – 2025
 - ✨ Creative tools including image-to-image transformations, background removal, and style presets
 
 ### Hashly
-[![Demo](https://img.shields.io/badge/View-Project-brightgreen?style=flat-square)](https://your-link-here)
+[![Demo](https://img.shields.io/badge/View-Project-brightgreen?style=flat-square)](https://www.hashlyai.me/)
 
 **Technologies:** React Native | Tailwind CSS | Supabase | Razorpay
 
@@ -99,7 +95,7 @@ Vardhman Mahaveer Open University, Kota, Rajasthan | 2022 – 2025
 - 📊 Analytics dashboard for productivity insights
 
 ### CalmlyAI Chatbot
-[![Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](https://lalit-kumar-mental-wellness.vercel.app/)
+[![Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](https://calmly-ai.vercel.app/)
 
 **Technologies:** React | Node.js | Gemini API
 
@@ -125,8 +121,8 @@ Vardhman Mahaveer Open University, Kota, Rajasthan | 2022 – 2025
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/lalitnamdev)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:namdevlalit914@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=web)](https://lalit-portfolio1.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/yourusername)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=web)](https://heylalit.tech/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/codebylalit)
 
 ---
 
