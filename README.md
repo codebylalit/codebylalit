@@ -1,8 +1,11 @@
-
-Hi, I'm Lalit 👋
+# Hi, I'm Lalit 👋
 
 ## 🚀 About Me
-A passionate **FrontEnd Developer** transforming ideas into robust digital solutions. I craft innovative web and mobile applications that solve real-world problems.
+A passionate **Frontend Developer** specializing in building innovative web and mobile applications. I transform complex ideas into intuitive digital experiences that solve real-world problems.
+
+## 🎓 Education
+**Bachelor of Computer Applications**  
+Vardhman Mahaveer Open University, Kota, Rajasthan | 2022 – 2025
 
 ## 🛠️ Tech Stack
 
@@ -32,61 +35,99 @@ A passionate **FrontEnd Developer** transforming ideas into robust digital solut
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-### Libraries
-![STL](https://img.shields.io/badge/-STL-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+## 💼 Experience
 
-## 📂 Projects
+### Software Engineer Fellow
+**BuildSpace S5** | June 2024 - July 2024 | Remote, United States
+- Developed ApplyLog using the MERN stack, enabling users to track job applications and manage tasks
+- Integrated interactive calendar, event functionality, and analytics dashboard for insights
+- Implemented secure JWT authentication and reliable data handling with MongoDB
 
-### 1. Caps.ai 
-**AI Instagram Caption Generator**
-[![Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](https://caps-ai-topaz.vercel.app/)
+### Frontend Developer
+**Contract Work** | Aug 2024 - Sep 2024 | Remote, India
+- Led frontend development of Osheanic website with modern UI and full responsiveness
+- Implemented blogs, messaging features, and custom color themes to enhance user engagement
+- Ensured cross-browser compatibility and smooth performance across devices
 
-**Technologies:** React | Tailwind CSS | Supabase | AI Generation
-- 🤖 AI-powered Instagram Caption Generator
-- 🎨 Three unique AI generation modes
-- 🔐 Supabase authentication
-- 📈 30% user retention rate
+## 📂 Featured Projects
 
-### 2. ApplyLog
-**Job Application Tracking System**
+### Skooty & SkootyGO
+[![Demo](https://img.shields.io/badge/View-Project-brightgreen?style=flat-square)](https://your-link-here)
+
+**Technologies:** React Native | Firebase | Google Maps API | Node.js | Tailwind CSS
+
+- 🚗 Two-sided ride-hailing platform with apps for both riders and drivers
+- 📍 Real-time GPS tracking and live navigation using Google Maps API
+- ⚡ Automated ride-matching logic with Firebase Cloud Functions for instant updates
+
+### Invoicelly
+[![Demo](https://img.shields.io/badge/View-Project-brightgreen?style=flat-square)](https://your-link-here)
+
+**Technologies:** React (TypeScript) | Supabase | Razorpay | jsPDF | Tailwind CSS
+
+- 🤖 AI-powered invoicing tool that generates professional invoices from simple prompts
+- 💳 Customizable templates, instant payment links, and downloadable PDFs
+- 📊 Streamlined client and item management for freelancers and small businesses
+
+### NanoBanana
+[![Demo](https://img.shields.io/badge/View-Project-brightgreen?style=flat-square)](https://your-link-here)
+
+**Technologies:** React | Tailwind CSS | Supabase | Google Gemini API
+
+- 🎨 Web-based AI image generator powered by Google Gemini API
+- 🎯 Preset-based prompts allowing users to generate images without writing prompts
+- ✨ Creative tools including image-to-image transformations, background removal, and style presets
+
+### Hashly
+[![Demo](https://img.shields.io/badge/View-Project-brightgreen?style=flat-square)](https://your-link-here)
+
+**Technologies:** React Native | Tailwind CSS | Supabase | Razorpay
+
+- 📱 AI-powered mobile app that generates captions, hashtags, and memes from text or images
+- 💰 In-app credit system for monetization with smooth mobile experience
+- 🔄 Real-time backend tracking, user management, and Play Store compliant
+
+### ApplyLog
 [![Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](https://applylog.vercel.app/)
 
 **Technologies:** MERN Stack | JWT | Dashboard Analytics
-- 📋 Comprehensive job application management
-- 🗓️ Interactive calendar and task tracking
-- 🔒 Secure JWT authentication
-- 📊 Productivity boost of 30%
 
-### 3. CalmlyAI Chatbot
-**Mental Health Support Platform**
+- 📋 Comprehensive job application tracking system
+- 🗓️ Interactive calendar with event functionality
+- 🔒 Secure JWT authentication and MongoDB data handling
+- 📊 Analytics dashboard for productivity insights
+
+### CalmlyAI Chatbot
 [![Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](https://lalit-kumar-mental-wellness.vercel.app/)
 
 **Technologies:** React | Node.js | Gemini API
-- 🧠 AI-powered mental health support
-- 💬 Accurate conversational support
-- 📥 Offline chat download feature
-- 🚀 50% improvement in topic accuracy
 
-### 4. Lucky Fashion Store
-**Mobile E-commerce Application**
-[![Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](https://drive.google.com/file/d/1Ow1KAIqOqVWb7RJjiLELb1J4MZqsK1Lu/view)
-
-**Technologies:** React Native | Firebase | Tailwind CSS
-- 👗 Women's clothing shopping app
-- 🛒 Advanced shopping cart system
-- 🔐 Secure authentication
-- 📈 20% increase in user satisfaction
+- 🧠 AI-powered mental health support chatbot
+- 💬 Accurate conversational support with 50% improvement in topic accuracy
+- 📥 Offline chat download feature for privacy
+- 🎯 Built under Mental Wellness theme for Odoo X Amalthea Hackathon
 
 ## 🏆 Achievements
-- Top 50 Team, Odoo X Amalthea Hackathon
-- Software Engineer Fellow at BuildSpace S5
-- Consistent innovation in full-stack development
+
+**Top 50 Finalist Team** - Odoo X Amalthea, IIT Gandhinagar Hackathon (Dec 2024)
+- Built an AI chatbot for mental health support under the Mental Wellness theme
+- Networked with mentors and professionals from industry
+
+**Software Engineer Fellow** - BuildSpace S5 (June-July 2024)
+- Developed full-stack applications with modern tech stack
+- Collaborated with global developer community
+
+**Google Cloud Arcade Participant** (May 2024)
+- Completed interactive labs on Google Cloud services and infrastructure
+- Hands-on experience with gamified cloud learning
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/lalitnamdev)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:namdevlalit914@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=web)](https://lalit-portfolio1.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/yourusername)
+
+---
 
 *Turning coffee into code, one project at a time! ☕️💻*
