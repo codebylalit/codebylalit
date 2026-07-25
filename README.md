@@ -25,9 +25,7 @@
 
 ## 👨‍💻 About Me
 
-<div align="center">
-
-<pre>
+```javascript
 const lalit = {
   role: "Frontend Developer",
   location: "Ahmedabad, India",
@@ -42,7 +40,9 @@ const lalit = {
   openTo: "Freelance work & new opportunities",
   reachMe: "namdevlalit914@gmail.com"
 };
-</pre>
+```
+
+<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=codebylalit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9" width="65%"/>
 
