@@ -5,7 +5,10 @@
 <br/>
 
 <a href="https://heylalit.tech/">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Frontend+Developer;React+%7C+React+Native+%7C+TypeScript;Building+AI-Powered+Micro+SaaS+Products;Turning+Ideas+Into+Polished+Products+%E2%9C%A8" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Poppins&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Frontend+Developer;React+%7C+React+Native+%7C+TypeScript;Building+AI-Powered+Micro+SaaS+Products;Turning+Ideas+Into+Polished+Products+%E2%9C%A8"
+    alt="Typing SVG"
+  />
 </a>
 
 <br/><br/>
