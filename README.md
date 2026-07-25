@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,100:1A1A2E&height=220&section=header&text=Hi%20There%20👋%20I'm%20Lalit&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Building%20Sleek,%20Scalable%20Web%20%26%20AI%20Products&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,100:1A1A2E&height=220&section=header&text=Hi%20There%2C%20I%27m%20Lalit%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Building%20Sleek%2C%20Scalable%20Web%20%26%20AI%20Products&descAlignY=58&descSize=18" width="100%"/>
 
 <br/>
 
 <a href="https://your-portfolio-link.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=640&lines=Frontend+Developer;React+%7C+React+Native+%7C+TypeScript;Building+AI-Powered+Micro+SaaS+Products;Cloudflare+Workers+%2B+Serverless+Architecture;Turning+Ideas+Into+Polished+Products+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Frontend+Developer;React+%7C+React+Native+%7C+TypeScript;Building+AI-Powered+Micro+SaaS+Products;Cloudflare+Workers+%2B+Serverless+Architecture;Turning+Ideas+Into+Polished+Products+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -19,11 +19,11 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<hr/>
 
 <br/>
 
-## <img src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif" width="32"> About Me
+## 👨‍💻 About Me
 
 <div align="center">
 
@@ -50,9 +50,7 @@ const lalit = {
 
 <br/>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-</div>
+<hr/>
 
 <br/>
 
@@ -92,9 +90,7 @@ const lalit = {
 
 <br/>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-</div>
+<hr/>
 
 <br/>
 
@@ -177,9 +173,7 @@ const lalit = {
 
 <br/>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-</div>
+<hr/>
 
 <br/>
 
@@ -204,9 +198,7 @@ const lalit = {
 
 <br/>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-</div>
+<hr/>
 
 <br/>
 
@@ -247,9 +239,7 @@ Completed hands-on gamified learning labs across Google Cloud services.
 
 <br/>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-</div>
+<hr/>
 
 <br/>
 
@@ -266,9 +256,7 @@ Completed hands-on gamified learning labs across Google Cloud services.
 
 <br/>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-</div>
+<hr/>
 
 <br/>
 
