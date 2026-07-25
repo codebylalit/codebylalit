@@ -1,129 +1,303 @@
-# Hi, I'm Lalit 👋
+<div align="center">
 
-## 🚀 About Me
-i'm a software engineer who builds immersive and user friendly web applications that users loves and transform complex ideas into intuitive digital experiences that solve real-world problems.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,100:1A1A2E&height=220&section=header&text=Hi%20There%20👋%20I'm%20Lalit&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Building%20Sleek,%20Scalable%20Web%20%26%20AI%20Products&descAlignY=58&descSize=18" width="100%"/>
+
+<br/>
+
+<a href="https://your-portfolio-link.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=640&lines=Frontend+Developer+%40+Evercore+Digital+Solutions;React+%7C+React+Native+%7C+TypeScript;Building+AI-Powered+Micro+SaaS+Products;Cloudflare+Workers+%2B+Serverless+Architecture;Turning+Ideas+Into+Polished+Products+%E2%9C%A8" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:namdevlalit914@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Lalitttt"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+<br/>
+
+## <img src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif" width="32"> About Me
+
+<table align="center" border="0">
+<tr>
+<td width="55%" valign="top">
+
+```javascript
+const lalit = {
+  role: "Frontend Developer",
+  location: "Ahmedabad, India",
+  currentlyAt: "Evercore Digital Solutions",
+  languages: ["JavaScript", "TypeScript", "C/C++"],
+  focus: [
+    "Micro SaaS applications",
+    "Serverless architecture on Cloudflare",
+    "AI-powered developer & business tools"
+  ],
+  currentlyLearning: ["Advanced Cloudflare D1", "System Design"],
+  funFact: "I ship faster with an AI pair-programmer by my side ⚡",
+  reachMe: "namdevlalit914@gmail.com"
+};
+```
+
+</td>
+<td width="45%" valign="top" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Lalitttt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+</div>
+
+<br/>
 
 ## 🛠️ Tech Stack
 
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<div align="center">
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Angular](https://img.shields.io/badge/-AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap,nextjs" />
 
-### Databases & Backend
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<br/><br/>
 
-### Developer Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+**Backend & Runtime**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-## 💼 Experience
+<br/><br/>
 
-### Software Engineer Fellow
-**BuildSpace S5** | June 2024 - July 2024 | Remote, United States
-- Developed ApplyLog using the MERN stack, enabling users to track job applications and manage tasks
-- Integrated interactive calendar, event functionality, and analytics dashboard for insights
-- Implemented secure JWT authentication and reliable data handling with MongoDB
+**Cloud & Deployment**
+<br/>
+<img src="https://skillicons.dev/icons?i=cloudflare,githubactions,vercel" />
 
-### Frontend Developer
-**Contract Work** | Aug 2024 - Sep 2024 | Remote, India
-- Led frontend development of Osheanic website with modern UI and full responsiveness
-- Implemented blogs, messaging features, and custom color themes to enhance user engagement
-- Ensured cross-browser compatibility and smooth performance across devices
+<br/><br/>
 
-## 📂 Featured Projects
+**Database**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,supabase" />
 
-### Skooty & SkootyGO
-[![Demo](https://img.shields.io/badge/View-Project-brightgreen?style=flat-square)](https://skooty.live/)
+<br/><br/>
 
-**Technologies:** React Native | Firebase | Google Maps API | Node.js | Tailwind CSS
+**AI & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=gemini,git,github,vscode,figma" />
 
-- 🚗 Two-sided ride-hailing platform with apps for both riders and drivers
-- 📍 Real-time GPS tracking and live navigation using Google Maps API
-- ⚡ Automated ride-matching logic with Firebase Cloud Functions for instant updates
+</div>
 
-### Invoicelly
-[![Demo](https://img.shields.io/badge/View-Project-brightgreen?style=flat-square)](https://www.invoicely.me/)
+<br/>
 
-**Technologies:** React (TypeScript) | Supabase | Razorpay | jsPDF | Tailwind CSS
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+</div>
 
-- 🤖 AI-powered invoicing tool that generates professional invoices from simple prompts
-- 💳 Customizable templates, instant payment links, and downloadable PDFs
-- 📊 Streamlined client and item management for freelancers and small businesses
+<br/>
 
-### NanoBanana
-[![Demo](https://img.shields.io/badge/View-Project-brightgreen?style=flat-square)](https://nenobanana.site/)
+## 🚀 Featured Projects
 
-**Technologies:** React | Tailwind CSS | Supabase | Google Gemini API
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<div>
 
-- 🎨 Web-based AI image generator powered by Google Gemini API
-- 🎯 Preset-based prompts allowing users to generate images without writing prompts
-- ✨ Creative tools including image-to-image transformations, background removal, and style presets
+<h3 align="center">🛵 Skooty & SkootyGO</h3>
+<p align="center"><i>Two-sided ride-hailing platform with real-time GPS tracking</i></p>
+<p align="center">
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white"/>
+</p>
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+</p>
 
-### Hashly
-[![Demo](https://img.shields.io/badge/View-Project-brightgreen?style=flat-square)](https://www.hashlyai.me/)
+</div>
+</td>
+<td width="50%" valign="top">
+<div>
 
-**Technologies:** React Native | Tailwind CSS | Supabase | Razorpay
+<h3 align="center">🧾 Invoicelly</h3>
+<p align="center"><i>AI-powered invoicing tool generating pro invoices from a prompt</i></p>
+<p align="center">
+<img src="https://img.shields.io/badge/React_TS-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white"/>
+</p>
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+</p>
 
-- 📱 AI-powered mobile app that generates captions, hashtags, and memes from text or images
-- 💰 In-app credit system for monetization with smooth mobile experience
-- 🔄 Real-time backend tracking, user management, and Play Store compliant
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<div>
 
-### ApplyLog
-[![Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](https://applylog.vercel.app/)
+<h3 align="center">🍌 NenoBanana</h3>
+<p align="center"><i>Web-based AI image generator powered by Google Gemini API</i></p>
+<p align="center">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+</p>
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+</p>
 
-**Technologies:** MERN Stack | JWT | Dashboard Analytics
+</div>
+</td>
+<td width="50%" valign="top">
+<div>
 
-- 📋 Comprehensive job application tracking system
-- 🗓️ Interactive calendar with event functionality
-- 🔒 Secure JWT authentication and MongoDB data handling
-- 📊 Analytics dashboard for productivity insights
+<h3 align="center">🔖 Hashly</h3>
+<p align="center"><i>AI mobile app generating captions, hashtags & memes</i></p>
+<p align="center">
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white"/>
+</p>
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+</p>
 
-### CalmlyAI Chatbot
-[![Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](https://calmly-ai.vercel.app/)
+</div>
+</td>
+</tr>
+</table>
 
-**Technologies:** React | Node.js | Gemini API
+<br/>
 
-- 🧠 AI-powered mental health support chatbot
-- 💬 Accurate conversational support with 50% improvement in topic accuracy
-- 📥 Offline chat download feature for privacy
-- 🎯 Built under Mental Wellness theme for Odoo X Amalthea Hackathon
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+</div>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Lalitttt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&count_private=true" width="48%"/>
+<img src="https://streak-stats.demolab.com?user=Lalitttt&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="48%"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalitttt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="48%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lalitttt&theme=tokyonight" width="48%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lalitttt&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=ffffff" width="97%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+</div>
+
+<br/>
 
 ## 🏆 Achievements
 
-**Top 50 Finalist Team** - Odoo X Amalthea, IIT Gandhinagar Hackathon (Dec 2024)
-- Built an AI chatbot for mental health support under the Mental Wellness theme
-- Networked with mentors and professionals from industry
+<div align="center">
 
-**Software Engineer Fellow** - BuildSpace S5 (June-July 2024)
-- Developed full-stack applications with modern tech stack
-- Collaborated with global developer community
+<img src="https://github-profile-trophy.vercel.app/?username=Lalitttt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" width="97%"/>
 
-**Google Cloud Arcade Participant** (May 2024)
-- Completed interactive labs on Google Cloud services and infrastructure
-- Hands-on experience with gamified cloud learning
+<br/>
 
-## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/lalitnamdev)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:namdevlalit914@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=web)](https://heylalit.tech/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/codebylalit)
+<img src="https://komarev.com/ghpvc/?username=Lalitttt&label=Profile+Views&color=a78bfa&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/Lalitttt?label=Followers&style=for-the-badge&color=a78bfa&logo=github" />
+<img src="https://img.shields.io/github/stars/Lalitttt?label=Stars&style=for-the-badge&color=a78bfa&logo=github" />
 
----
+</div>
 
-*Turning coffee into code, one project at a time! ☕️💻*
+<br/>
+
+<table align="center" border="0">
+<tr>
+<td>
+
+🥇 **Top 50 Finalist** — Odoo x Amalthea Hackathon, IIT Gandhinagar (Dec 2024)
+Built an AI chatbot for mental health support under the Mental Wellness theme.
+
+</td>
+</tr>
+<tr>
+<td>
+
+☁️ **Google Cloud Arcade Participant** (May 2024)
+Completed hands-on gamified learning labs across Google Cloud services.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+</div>
+
+<br/>
+
+## 🧭 Current Focus
+
+```text
+2026 Roadmap
+│
+├── 🚧 Building     — Micro SaaS products on React + Cloudflare Workers/D1
+├── 📚 Learning      — Advanced system design & scalable serverless patterns
+├── 🎯 Exploring     — AI-assisted product development (Bolt, Lovable, Claude Code)
+└── 🤝 Open to       — Freelance projects, internships & collaborative builds
+```
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+</div>
+
+<br/>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="35"/></a>
+<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/></a>
+<a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" height="35"/></a>
+<a href="mailto:namdevlalit914@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💭 *"Build things that make people's lives simpler — one clean commit at a time."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,100:0F0F0F&height=150&section=footer" width="100%"/>
+
+</div>
