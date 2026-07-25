@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://your-portfolio-link.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=640&lines=Frontend+Developer+%40+Evercore+Digital+Solutions;React+%7C+React+Native+%7C+TypeScript;Building+AI-Powered+Micro+SaaS+Products;Cloudflare+Workers+%2B+Serverless+Architecture;Turning+Ideas+Into+Polished+Products+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=640&lines=Frontend+Developer;React+%7C+React+Native+%7C+TypeScript;Building+AI-Powered+Micro+SaaS+Products;Cloudflare+Workers+%2B+Serverless+Architecture;Turning+Ideas+Into+Polished+Products+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -13,7 +13,7 @@
 <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:namdevlalit914@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/Lalitttt"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/codebylalit"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
@@ -25,15 +25,12 @@
 
 ## <img src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif" width="32"> About Me
 
-<table align="center" border="0">
-<tr>
-<td width="55%" valign="top">
+<div align="center">
 
-```javascript
+<pre>
 const lalit = {
   role: "Frontend Developer",
   location: "Ahmedabad, India",
-  currentlyAt: "Evercore Digital Solutions",
   languages: ["JavaScript", "TypeScript", "C/C++"],
   focus: [
     "Micro SaaS applications",
@@ -42,18 +39,14 @@ const lalit = {
   ],
   currentlyLearning: ["Advanced Cloudflare D1", "System Design"],
   funFact: "I ship faster with an AI pair-programmer by my side ⚡",
+  openTo: "Freelance work & new opportunities",
   reachMe: "namdevlalit914@gmail.com"
 };
-```
+</pre>
 
-</td>
-<td width="45%" valign="top" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=codebylalit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9" width="65%"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Lalitttt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9" width="100%"/>
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
@@ -194,18 +187,18 @@ const lalit = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Lalitttt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&count_private=true" width="48%"/>
-<img src="https://streak-stats.demolab.com?user=Lalitttt&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=codebylalit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&count_private=true" width="48%"/>
+<img src="https://streak-stats.demolab.com?user=codebylalit&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="48%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalitttt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebylalit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="48%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lalitttt&theme=tokyonight" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codebylalit&theme=tokyonight" width="48%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lalitttt&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=ffffff" width="97%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codebylalit&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=ffffff" width="97%"/>
 
 </div>
 
@@ -221,13 +214,13 @@ const lalit = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Lalitttt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" width="97%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=codebylalit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" width="97%"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Lalitttt&label=Profile+Views&color=a78bfa&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/Lalitttt?label=Followers&style=for-the-badge&color=a78bfa&logo=github" />
-<img src="https://img.shields.io/github/stars/Lalitttt?label=Stars&style=for-the-badge&color=a78bfa&logo=github" />
+<img src="https://komarev.com/ghpvc/?username=codebylalit&label=Profile+Views&color=a78bfa&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/codebylalit?label=Followers&style=for-the-badge&color=a78bfa&logo=github" />
+<img src="https://img.shields.io/github/stars/codebylalit?label=Stars&style=for-the-badge&color=a78bfa&logo=github" />
 
 </div>
 
