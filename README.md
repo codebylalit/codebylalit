@@ -248,9 +248,9 @@ Completed hands-on gamified learning labs across Google Cloud services.
 <pre>
 2026 Roadmap
 │
-├── 🚧 Building     — Micro SaaS products on React + Cloudflare Workers/D1
+├── 🚧 Building     — Micro SaaS products 
 ├── 📚 Learning      — Advanced system design & scalable serverless patterns
-├── 🎯 Exploring     — AI-assisted product development (Bolt, Lovable, Claude Code)
+├── 🎯 Exploring     — AI-assisted product development (Cursor, Antigravity, Codex, Claude Code)
 └── 🤝 Open to       — Freelance projects, internships & collaborative builds
 </pre>
 
@@ -264,9 +264,9 @@ Completed hands-on gamified learning labs across Google Cloud services.
 
 <div align="center">
 
-<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="35"/></a>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/></a>
-<a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" height="35"/></a>
+<a href="https://heylalit.tech/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/lalitnamdev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/lalitnamdev_"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" height="35"/></a>
 <a href="mailto:namdevlalit914@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/></a>
 
 </div>
