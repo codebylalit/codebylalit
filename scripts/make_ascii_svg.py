@@ -5,20 +5,16 @@ from PIL import Image, ImageDraw
 RAMP = " .`:-=+*cs#%@"  # Bright (sparse) -> Dark (dense)
 
 def create_sample_avatar_image(filename="source-prepped.png", width=200, height=200):
-    """Generates a clean synthetic avatar image if no photo is provided."""
     img = Image.new("L", (width, height), 255)
     draw = ImageDraw.Draw(img)
-    # Head
-    draw.ellipse((60, 35, 140, 115), fill=50)
-    # Shoulders
-    draw.ellipse((30, 125, 170, 230), fill=50)
-    # Highlights
-    draw.ellipse((75, 55, 90, 70), fill=200)
-    draw.ellipse((110, 55, 125, 70), fill=200)
+    draw.ellipse((60, 35, 140, 115), fill=40)
+    draw.ellipse((30, 125, 170, 230), fill=40)
+    draw.ellipse((75, 55, 90, 70), fill=210)
+    draw.ellipse((110, 55, 125, 70), fill=210)
     img.save(filename)
     print(f"Generated default sample avatar image at '{filename}'")
 
-def image_to_ascii(img_path: str, target_width: int = 85):
+def image_to_ascii(img_path: str, target_width: int = 80):
     if not os.path.exists(img_path):
         create_sample_avatar_image(img_path)
 
@@ -48,8 +44,8 @@ def image_to_ascii(img_path: str, target_width: int = 85):
 def generate_ascii_svg(rows, output_path="avi-ascii.svg"):
     char_w = 7.1
     char_h = 13.0
-    padding_x = 20
-    padding_y = 25
+    padding_x = 22
+    padding_y = 30
 
     num_cols = max(len(r) for r in rows)
     width = int(num_cols * char_w + (padding_x * 2))
@@ -57,11 +53,23 @@ def generate_ascii_svg(rows, output_path="avi-ascii.svg"):
 
     svg = [
         f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {width} {height}" width="{width}" height="{height}">',
+        '  <defs>',
+        '    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">',
+        '      <stop offset="0%" stop-color="#0f172a" />',
+        '      <stop offset="50%" stop-color="#0b0f19" />',
+        '      <stop offset="100%" stop-color="#05070f" />',
+        '    </linearGradient>',
+        '    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">',
+        '      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.8" />',
+        '      <stop offset="50%" stop-color="#a78bfa" stop-opacity="0.3" />',
+        '      <stop offset="100%" stop-color="#ec4899" stop-opacity="0.6" />',
+        '    </linearGradient>',
+        '  </defs>',
         '  <style>',
-        '    .bg { fill: #0d1117; stroke: #30363d; stroke-width: 1px; rx: 8px; }',
-        '    .ascii-text { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; font-size: 11px; fill: #8b949e; white-space: pre; }',
+        '    .outer-shell { fill: url(#bgGrad); stroke: url(#borderGrad); stroke-width: 1.5px; rx: 12px; }',
+        '    .ascii-text { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 11px; fill: #94a3b8; white-space: pre; }',
         '  </style>',
-        '  <rect width="100%" height="100%" class="bg" />',
+        '  <rect width="100%" height="100%" class="outer-shell" />',
         '  <defs>',
     ]
 
