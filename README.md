@@ -15,6 +15,21 @@
 <a href="mailto:namdevlalit914@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/codebylalit"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
+<br/><br/><br/>
+
+<h3><code>codebylalit@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" alt="Contribution Heatmap" />
+
+<br/><br/>
+
+<h3><code>codebylalit@github ~ $ whoami</code></h3>
+<table>
+  <tr>
+    <td valign="top"><img src="./avi-ascii.svg" width="370" alt="ASCII Portrait" /></td>
+    <td valign="top"><img src="./info-card.svg" width="490" alt="Neofetch Card" /></td>
+  </tr>
+</table>
+
 </div>
 
 ---
