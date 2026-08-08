@@ -399,7 +399,8 @@
   <rect x="763" y="80" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.550s;" />
   <rect x="763" y="94" width="11" height="11" rx="2.5" fill="#10b981" class="day-box" style="animation-delay: 0.560s;" />
   <rect x="763" y="108" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.570s;" />
-  <text x="35" y="160" class="sub-text">Current Streak: <tspan class="stat-val">3 days</tspan> | Longest: <tspan class="stat-val">5 days</tspan> | Peak Day: <tspan class="accent">12 commits (2025-09-10)</tspan></text>
+  <rect x="763" y="122" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.580s;" />
+  <text x="35" y="160" class="sub-text">Current Streak: <tspan class="stat-val">0 days</tspan> | Longest: <tspan class="stat-val">5 days</tspan> | Peak Day: <tspan class="accent">12 commits (2025-09-10)</tspan></text>
   <text x="700" y="160" class="label-text">Less</text>
   <rect x="730" y="151" width="10" height="10" rx="2" fill="#1e293b" />
   <rect x="743" y="151" width="10" height="10" rx="2" fill="#064e3b" />
