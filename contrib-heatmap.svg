@@ -25,7 +25,7 @@
     .day-box { animation: popIn 0.35s cubic-bezier(0.16, 1, 0.3, 1) forwards; opacity: 0; transform-box: fill-box; transform-origin: center; }
   </style>
   <rect width="100%" height="100%" class="outer-shell" />
-  <text x="35" y="24" class="sub-text">⚡ Live Contribution Activity (<tspan class="stat-val">417</tspan> contributions in 365 days)</text>
+  <text x="35" y="24" class="sub-text">⚡ Live Contribution Activity (<tspan class="stat-val">474</tspan> contributions in 365 days)</text>
   <text x="10" y="61" class="label-text">Mon</text>
   <text x="10" y="89" class="label-text">Wed</text>
   <text x="10" y="117" class="label-text">Fri</text>
@@ -74,20 +74,20 @@
   <rect x="119" y="38" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.060s;" />
   <rect x="119" y="52" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.070s;" />
   <rect x="119" y="66" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.080s;" />
-  <rect x="119" y="80" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.090s;" />
+  <rect x="119" y="80" width="11" height="11" rx="2.5" fill="#047857" class="day-box" style="animation-delay: 0.090s;" />
   <rect x="119" y="94" width="11" height="11" rx="2.5" fill="#047857" class="day-box" style="animation-delay: 0.100s;" />
   <rect x="119" y="108" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.110s;" />
   <rect x="119" y="122" width="11" height="11" rx="2.5" fill="#10b981" class="day-box" style="animation-delay: 0.120s;" />
   <rect x="133" y="38" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.070s;" />
-  <rect x="133" y="52" width="11" height="11" rx="2.5" fill="#10b981" class="day-box" style="animation-delay: 0.080s;" />
+  <rect x="133" y="52" width="11" height="11" rx="2.5" fill="#34d399" class="day-box" style="animation-delay: 0.080s;" />
   <rect x="133" y="66" width="11" height="11" rx="2.5" fill="#047857" class="day-box" style="animation-delay: 0.090s;" />
-  <rect x="133" y="80" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.100s;" />
+  <rect x="133" y="80" width="11" height="11" rx="2.5" fill="#047857" class="day-box" style="animation-delay: 0.100s;" />
   <rect x="133" y="94" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.110s;" />
   <rect x="133" y="108" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.120s;" />
   <rect x="133" y="122" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.130s;" />
   <rect x="147" y="38" width="11" height="11" rx="2.5" fill="#047857" class="day-box" style="animation-delay: 0.080s;" />
   <rect x="147" y="52" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.090s;" />
-  <rect x="147" y="66" width="11" height="11" rx="2.5" fill="#047857" class="day-box" style="animation-delay: 0.100s;" />
+  <rect x="147" y="66" width="11" height="11" rx="2.5" fill="#10b981" class="day-box" style="animation-delay: 0.100s;" />
   <rect x="147" y="80" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.110s;" />
   <rect x="147" y="94" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.120s;" />
   <rect x="147" y="108" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.130s;" />
@@ -129,30 +129,30 @@
   <rect x="217" y="122" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.190s;" />
   <rect x="231" y="38" width="11" height="11" rx="2.5" fill="#047857" class="day-box" style="animation-delay: 0.140s;" />
   <rect x="231" y="52" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.150s;" />
-  <rect x="231" y="66" width="11" height="11" rx="2.5" fill="#10b981" class="day-box" style="animation-delay: 0.160s;" />
+  <rect x="231" y="66" width="11" height="11" rx="2.5" fill="#34d399" class="day-box" style="animation-delay: 0.160s;" />
   <rect x="231" y="80" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.170s;" />
   <rect x="231" y="94" width="11" height="11" rx="2.5" fill="#10b981" class="day-box" style="animation-delay: 0.180s;" />
   <rect x="231" y="108" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.190s;" />
-  <rect x="231" y="122" width="11" height="11" rx="2.5" fill="#10b981" class="day-box" style="animation-delay: 0.200s;" />
+  <rect x="231" y="122" width="11" height="11" rx="2.5" fill="#34d399" class="day-box" style="animation-delay: 0.200s;" />
   <rect x="245" y="38" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.150s;" />
   <rect x="245" y="52" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.160s;" />
   <rect x="245" y="66" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.170s;" />
   <rect x="245" y="80" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.180s;" />
-  <rect x="245" y="94" width="11" height="11" rx="2.5" fill="#047857" class="day-box" style="animation-delay: 0.190s;" />
-  <rect x="245" y="108" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.200s;" />
-  <rect x="245" y="122" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.210s;" />
+  <rect x="245" y="94" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.190s;" />
+  <rect x="245" y="108" width="11" height="11" rx="2.5" fill="#047857" class="day-box" style="animation-delay: 0.200s;" />
+  <rect x="245" y="122" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.210s;" />
   <rect x="259" y="38" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.160s;" />
   <rect x="259" y="52" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.170s;" />
   <rect x="259" y="66" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.180s;" />
   <rect x="259" y="80" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.190s;" />
   <rect x="259" y="94" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.200s;" />
   <rect x="259" y="108" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.210s;" />
-  <rect x="259" y="122" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.220s;" />
-  <rect x="273" y="38" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.170s;" />
-  <rect x="273" y="52" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.180s;" />
-  <rect x="273" y="66" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.190s;" />
-  <rect x="273" y="80" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.200s;" />
-  <rect x="273" y="94" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.210s;" />
+  <rect x="259" y="122" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.220s;" />
+  <rect x="273" y="38" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.170s;" />
+  <rect x="273" y="52" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.180s;" />
+  <rect x="273" y="66" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.190s;" />
+  <rect x="273" y="80" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.200s;" />
+  <rect x="273" y="94" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.210s;" />
   <rect x="273" y="108" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.220s;" />
   <rect x="273" y="122" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.230s;" />
   <rect x="287" y="38" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.180s;" />
@@ -175,25 +175,25 @@
   <rect x="315" y="80" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.230s;" />
   <rect x="315" y="94" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.240s;" />
   <rect x="315" y="108" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.250s;" />
-  <rect x="315" y="122" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.260s;" />
+  <rect x="315" y="122" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.260s;" />
   <rect x="329" y="38" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.210s;" />
   <rect x="329" y="52" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.220s;" />
   <rect x="329" y="66" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.230s;" />
-  <rect x="329" y="80" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.240s;" />
+  <rect x="329" y="80" width="11" height="11" rx="2.5" fill="#047857" class="day-box" style="animation-delay: 0.240s;" />
   <rect x="329" y="94" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.250s;" />
-  <rect x="329" y="108" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.260s;" />
-  <rect x="329" y="122" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.270s;" />
-  <rect x="343" y="38" width="11" height="11" rx="2.5" fill="#047857" class="day-box" style="animation-delay: 0.220s;" />
-  <rect x="343" y="52" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.230s;" />
+  <rect x="329" y="108" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.260s;" />
+  <rect x="329" y="122" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.270s;" />
+  <rect x="343" y="38" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.220s;" />
+  <rect x="343" y="52" width="11" height="11" rx="2.5" fill="#047857" class="day-box" style="animation-delay: 0.230s;" />
   <rect x="343" y="66" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.240s;" />
   <rect x="343" y="80" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.250s;" />
-  <rect x="343" y="94" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.260s;" />
+  <rect x="343" y="94" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.260s;" />
   <rect x="343" y="108" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.270s;" />
   <rect x="343" y="122" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.280s;" />
-  <rect x="357" y="38" width="11" height="11" rx="2.5" fill="#34d399" class="day-box" style="animation-delay: 0.230s;" />
-  <rect x="357" y="52" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.240s;" />
+  <rect x="357" y="38" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.230s;" />
+  <rect x="357" y="52" width="11" height="11" rx="2.5" fill="#34d399" class="day-box" style="animation-delay: 0.240s;" />
   <rect x="357" y="66" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.250s;" />
-  <rect x="357" y="80" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.260s;" />
+  <rect x="357" y="80" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.260s;" />
   <rect x="357" y="94" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.270s;" />
   <rect x="357" y="108" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.280s;" />
   <rect x="357" y="122" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.290s;" />
@@ -201,9 +201,9 @@
   <rect x="371" y="52" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.250s;" />
   <rect x="371" y="66" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.260s;" />
   <rect x="371" y="80" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.270s;" />
-  <rect x="371" y="94" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.280s;" />
+  <rect x="371" y="94" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.280s;" />
   <rect x="371" y="108" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.290s;" />
-  <rect x="371" y="122" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.300s;" />
+  <rect x="371" y="122" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.300s;" />
   <rect x="385" y="38" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.250s;" />
   <rect x="385" y="52" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.260s;" />
   <rect x="385" y="66" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.270s;" />
@@ -228,43 +228,43 @@
   <rect x="427" y="38" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.280s;" />
   <rect x="427" y="52" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.290s;" />
   <rect x="427" y="66" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.300s;" />
-  <rect x="427" y="80" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.310s;" />
-  <rect x="427" y="94" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.320s;" />
+  <rect x="427" y="80" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.310s;" />
+  <rect x="427" y="94" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.320s;" />
   <rect x="427" y="108" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.330s;" />
-  <rect x="427" y="122" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.340s;" />
+  <rect x="427" y="122" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.340s;" />
   <rect x="441" y="38" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.290s;" />
   <rect x="441" y="52" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.300s;" />
-  <rect x="441" y="66" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.310s;" />
+  <rect x="441" y="66" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.310s;" />
   <rect x="441" y="80" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.320s;" />
-  <rect x="441" y="94" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.330s;" />
+  <rect x="441" y="94" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.330s;" />
   <rect x="441" y="108" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.340s;" />
-  <rect x="441" y="122" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.350s;" />
+  <rect x="441" y="122" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.350s;" />
   <rect x="455" y="38" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.300s;" />
   <rect x="455" y="52" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.310s;" />
-  <rect x="455" y="66" width="11" height="11" rx="2.5" fill="#10b981" class="day-box" style="animation-delay: 0.320s;" />
-  <rect x="455" y="80" width="11" height="11" rx="2.5" fill="#10b981" class="day-box" style="animation-delay: 0.330s;" />
-  <rect x="455" y="94" width="11" height="11" rx="2.5" fill="#10b981" class="day-box" style="animation-delay: 0.340s;" />
-  <rect x="455" y="108" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.350s;" />
+  <rect x="455" y="66" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.320s;" />
+  <rect x="455" y="80" width="11" height="11" rx="2.5" fill="#34d399" class="day-box" style="animation-delay: 0.330s;" />
+  <rect x="455" y="94" width="11" height="11" rx="2.5" fill="#34d399" class="day-box" style="animation-delay: 0.340s;" />
+  <rect x="455" y="108" width="11" height="11" rx="2.5" fill="#34d399" class="day-box" style="animation-delay: 0.350s;" />
   <rect x="455" y="122" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.360s;" />
-  <rect x="469" y="38" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.310s;" />
+  <rect x="469" y="38" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.310s;" />
   <rect x="469" y="52" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.320s;" />
   <rect x="469" y="66" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.330s;" />
   <rect x="469" y="80" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.340s;" />
   <rect x="469" y="94" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.350s;" />
   <rect x="469" y="108" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.360s;" />
   <rect x="469" y="122" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.370s;" />
-  <rect x="483" y="38" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.320s;" />
-  <rect x="483" y="52" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.330s;" />
+  <rect x="483" y="38" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.320s;" />
+  <rect x="483" y="52" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.330s;" />
   <rect x="483" y="66" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.340s;" />
   <rect x="483" y="80" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.350s;" />
   <rect x="483" y="94" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.360s;" />
-  <rect x="483" y="108" width="11" height="11" rx="2.5" fill="#10b981" class="day-box" style="animation-delay: 0.370s;" />
-  <rect x="483" y="122" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.380s;" />
+  <rect x="483" y="108" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.370s;" />
+  <rect x="483" y="122" width="11" height="11" rx="2.5" fill="#34d399" class="day-box" style="animation-delay: 0.380s;" />
   <rect x="497" y="38" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.330s;" />
   <rect x="497" y="52" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.340s;" />
   <rect x="497" y="66" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.350s;" />
-  <rect x="497" y="80" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.360s;" />
-  <rect x="497" y="94" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.370s;" />
+  <rect x="497" y="80" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.360s;" />
+  <rect x="497" y="94" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.370s;" />
   <rect x="497" y="108" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.380s;" />
   <rect x="497" y="122" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.390s;" />
   <rect x="511" y="38" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.340s;" />
@@ -280,25 +280,25 @@
   <rect x="525" y="80" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.380s;" />
   <rect x="525" y="94" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.390s;" />
   <rect x="525" y="108" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.400s;" />
-  <rect x="525" y="122" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.410s;" />
+  <rect x="525" y="122" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.410s;" />
   <rect x="539" y="38" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.360s;" />
   <rect x="539" y="52" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.370s;" />
-  <rect x="539" y="66" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.380s;" />
-  <rect x="539" y="80" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.390s;" />
+  <rect x="539" y="66" width="11" height="11" rx="2.5" fill="#047857" class="day-box" style="animation-delay: 0.380s;" />
+  <rect x="539" y="80" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.390s;" />
   <rect x="539" y="94" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.400s;" />
-  <rect x="539" y="108" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.410s;" />
-  <rect x="539" y="122" width="11" height="11" rx="2.5" fill="#047857" class="day-box" style="animation-delay: 0.420s;" />
-  <rect x="553" y="38" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.370s;" />
-  <rect x="553" y="52" width="11" height="11" rx="2.5" fill="#047857" class="day-box" style="animation-delay: 0.380s;" />
-  <rect x="553" y="66" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.390s;" />
-  <rect x="553" y="80" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.400s;" />
-  <rect x="553" y="94" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.410s;" />
-  <rect x="553" y="108" width="11" height="11" rx="2.5" fill="#10b981" class="day-box" style="animation-delay: 0.420s;" />
+  <rect x="539" y="108" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.410s;" />
+  <rect x="539" y="122" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.420s;" />
+  <rect x="553" y="38" width="11" height="11" rx="2.5" fill="#047857" class="day-box" style="animation-delay: 0.370s;" />
+  <rect x="553" y="52" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.380s;" />
+  <rect x="553" y="66" width="11" height="11" rx="2.5" fill="#10b981" class="day-box" style="animation-delay: 0.390s;" />
+  <rect x="553" y="80" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.400s;" />
+  <rect x="553" y="94" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.410s;" />
+  <rect x="553" y="108" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.420s;" />
   <rect x="553" y="122" width="11" height="11" rx="2.5" fill="#10b981" class="day-box" style="animation-delay: 0.430s;" />
-  <rect x="567" y="38" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.380s;" />
-  <rect x="567" y="52" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.390s;" />
-  <rect x="567" y="66" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.400s;" />
-  <rect x="567" y="80" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.410s;" />
+  <rect x="567" y="38" width="11" height="11" rx="2.5" fill="#34d399" class="day-box" style="animation-delay: 0.380s;" />
+  <rect x="567" y="52" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.390s;" />
+  <rect x="567" y="66" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.400s;" />
+  <rect x="567" y="80" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.410s;" />
   <rect x="567" y="94" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.420s;" />
   <rect x="567" y="108" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.430s;" />
   <rect x="567" y="122" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.440s;" />
@@ -310,8 +310,8 @@
   <rect x="581" y="108" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.440s;" />
   <rect x="581" y="122" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.450s;" />
   <rect x="595" y="38" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.400s;" />
-  <rect x="595" y="52" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.410s;" />
-  <rect x="595" y="66" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.420s;" />
+  <rect x="595" y="52" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.410s;" />
+  <rect x="595" y="66" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.420s;" />
   <rect x="595" y="80" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.430s;" />
   <rect x="595" y="94" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.440s;" />
   <rect x="595" y="108" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.450s;" />
@@ -329,26 +329,26 @@
   <rect x="623" y="80" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.450s;" />
   <rect x="623" y="94" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.460s;" />
   <rect x="623" y="108" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.470s;" />
-  <rect x="623" y="122" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.480s;" />
-  <rect x="637" y="38" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.430s;" />
+  <rect x="623" y="122" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.480s;" />
+  <rect x="637" y="38" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.430s;" />
   <rect x="637" y="52" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.440s;" />
   <rect x="637" y="66" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.450s;" />
   <rect x="637" y="80" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.460s;" />
-  <rect x="637" y="94" width="11" height="11" rx="2.5" fill="#34d399" class="day-box" style="animation-delay: 0.470s;" />
-  <rect x="637" y="108" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.480s;" />
-  <rect x="637" y="122" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.490s;" />
+  <rect x="637" y="94" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.470s;" />
+  <rect x="637" y="108" width="11" height="11" rx="2.5" fill="#34d399" class="day-box" style="animation-delay: 0.480s;" />
+  <rect x="637" y="122" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.490s;" />
   <rect x="651" y="38" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.440s;" />
-  <rect x="651" y="52" width="11" height="11" rx="2.5" fill="#10b981" class="day-box" style="animation-delay: 0.450s;" />
+  <rect x="651" y="52" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.450s;" />
   <rect x="651" y="66" width="11" height="11" rx="2.5" fill="#34d399" class="day-box" style="animation-delay: 0.460s;" />
-  <rect x="651" y="80" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.470s;" />
-  <rect x="651" y="94" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.480s;" />
-  <rect x="651" y="108" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.490s;" />
-  <rect x="651" y="122" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.500s;" />
-  <rect x="665" y="38" width="11" height="11" rx="2.5" fill="#047857" class="day-box" style="animation-delay: 0.450s;" />
-  <rect x="665" y="52" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.460s;" />
+  <rect x="651" y="80" width="11" height="11" rx="2.5" fill="#34d399" class="day-box" style="animation-delay: 0.470s;" />
+  <rect x="651" y="94" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.480s;" />
+  <rect x="651" y="108" width="11" height="11" rx="2.5" fill="#047857" class="day-box" style="animation-delay: 0.490s;" />
+  <rect x="651" y="122" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.500s;" />
+  <rect x="665" y="38" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.450s;" />
+  <rect x="665" y="52" width="11" height="11" rx="2.5" fill="#10b981" class="day-box" style="animation-delay: 0.460s;" />
   <rect x="665" y="66" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.470s;" />
-  <rect x="665" y="80" width="11" height="11" rx="2.5" fill="#10b981" class="day-box" style="animation-delay: 0.480s;" />
-  <rect x="665" y="94" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.490s;" />
+  <rect x="665" y="80" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.480s;" />
+  <rect x="665" y="94" width="11" height="11" rx="2.5" fill="#34d399" class="day-box" style="animation-delay: 0.490s;" />
   <rect x="665" y="108" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.500s;" />
   <rect x="665" y="122" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.510s;" />
   <rect x="679" y="38" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.460s;" />
@@ -360,12 +360,12 @@
   <rect x="679" y="122" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.520s;" />
   <rect x="693" y="38" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.470s;" />
   <rect x="693" y="52" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.480s;" />
-  <rect x="693" y="66" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.490s;" />
-  <rect x="693" y="80" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.500s;" />
-  <rect x="693" y="94" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.510s;" />
-  <rect x="693" y="108" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.520s;" />
-  <rect x="693" y="122" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.530s;" />
-  <rect x="707" y="38" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.480s;" />
+  <rect x="693" y="66" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.490s;" />
+  <rect x="693" y="80" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.500s;" />
+  <rect x="693" y="94" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.510s;" />
+  <rect x="693" y="108" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.520s;" />
+  <rect x="693" y="122" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.530s;" />
+  <rect x="707" y="38" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.480s;" />
   <rect x="707" y="52" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.490s;" />
   <rect x="707" y="66" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.500s;" />
   <rect x="707" y="80" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.510s;" />
@@ -373,8 +373,8 @@
   <rect x="707" y="108" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.530s;" />
   <rect x="707" y="122" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.540s;" />
   <rect x="721" y="38" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.490s;" />
-  <rect x="721" y="52" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.500s;" />
-  <rect x="721" y="66" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.510s;" />
+  <rect x="721" y="52" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.500s;" />
+  <rect x="721" y="66" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.510s;" />
   <rect x="721" y="80" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.520s;" />
   <rect x="721" y="94" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.530s;" />
   <rect x="721" y="108" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.540s;" />
@@ -385,16 +385,17 @@
   <rect x="735" y="80" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.530s;" />
   <rect x="735" y="94" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.540s;" />
   <rect x="735" y="108" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.550s;" />
-  <rect x="735" y="122" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.560s;" />
+  <rect x="735" y="122" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.560s;" />
   <rect x="749" y="38" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.510s;" />
-  <rect x="749" y="52" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.520s;" />
+  <rect x="749" y="52" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.520s;" />
   <rect x="749" y="66" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.530s;" />
   <rect x="749" y="80" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.540s;" />
-  <rect x="749" y="94" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.550s;" />
-  <rect x="749" y="108" width="11" height="11" rx="2.5" fill="#10b981" class="day-box" style="animation-delay: 0.560s;" />
-  <rect x="749" y="122" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.570s;" />
+  <rect x="749" y="94" width="11" height="11" rx="2.5" fill="#1e293b" class="day-box" style="animation-delay: 0.550s;" />
+  <rect x="749" y="108" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.560s;" />
+  <rect x="749" y="122" width="11" height="11" rx="2.5" fill="#34d399" class="day-box" style="animation-delay: 0.570s;" />
   <rect x="763" y="38" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.520s;" />
-  <text x="35" y="160" class="sub-text">Current Streak: <tspan class="stat-val">4 days</tspan> | Longest: <tspan class="stat-val">5 days</tspan> | Peak Day: <tspan class="accent">12 commits (2025-09-10)</tspan></text>
+  <rect x="763" y="52" width="11" height="11" rx="2.5" fill="#064e3b" class="day-box" style="animation-delay: 0.530s;" />
+  <text x="35" y="160" class="sub-text">Current Streak: <tspan class="stat-val">4 days</tspan> | Longest: <tspan class="stat-val">5 days</tspan> | Peak Day: <tspan class="accent">12 commits (2026-07-26)</tspan></text>
   <text x="700" y="160" class="label-text">Less</text>
   <rect x="730" y="151" width="10" height="10" rx="2" fill="#1e293b" />
   <rect x="743" y="151" width="10" height="10" rx="2" fill="#064e3b" />
