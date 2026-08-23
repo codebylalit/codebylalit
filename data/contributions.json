@@ -1,18 +1,13 @@
 {
   "username": "codebylalit",
-  "total_contributions": 396,
+  "total_contributions": 384,
   "current_streak": 6,
-  "longest_streak": 7,
+  "longest_streak": 6,
   "best_day": {
     "date": "2026-08-17",
     "count": 12
   },
   "days": [
-    {
-      "date": "2025-08-17",
-      "count": 3,
-      "level": 1
-    },
     {
       "date": "2025-08-24",
       "count": 3,
@@ -274,9 +269,9 @@
       "level": 1
     },
     {
-      "date": "2025-08-18",
-      "count": 3,
-      "level": 1
+      "date": "2026-08-23",
+      "count": 0,
+      "level": 0
     },
     {
       "date": "2025-08-25",
@@ -539,11 +534,6 @@
       "level": 4
     },
     {
-      "date": "2025-08-19",
-      "count": 0,
-      "level": 0
-    },
-    {
       "date": "2025-08-26",
       "count": 0,
       "level": 0
@@ -802,11 +792,6 @@
       "date": "2026-08-18",
       "count": 6,
       "level": 2
-    },
-    {
-      "date": "2025-08-20",
-      "count": 0,
-      "level": 0
     },
     {
       "date": "2025-08-27",
@@ -1069,11 +1054,6 @@
       "level": 1
     },
     {
-      "date": "2025-08-21",
-      "count": 0,
-      "level": 0
-    },
-    {
       "date": "2025-08-28",
       "count": 0,
       "level": 0
@@ -1334,11 +1314,6 @@
       "level": 1
     },
     {
-      "date": "2025-08-22",
-      "count": 3,
-      "level": 1
-    },
-    {
       "date": "2025-08-29",
       "count": 0,
       "level": 0
@@ -1595,11 +1570,6 @@
     },
     {
       "date": "2026-08-21",
-      "count": 3,
-      "level": 1
-    },
-    {
-      "date": "2025-08-23",
       "count": 3,
       "level": 1
     },
