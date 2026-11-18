@@ -21,21 +21,6 @@
 
 <br/><br/><br/>
 
-<!-- ANIMATED TERMINAL SUITE -->
-<h3><code>codebylalit@github ~ $ ./contributions.sh</code></h3>
-<img src="./contrib-heatmap.svg" width="860" alt="Contribution Heatmap" />
-
-<br/><br/>
-
-<h3><code>codebylalit@github ~ $ whoami</code></h3>
-<table>
-  <tr>
-    <td valign="top" align="center"><img src="./avi-ascii.svg" width="370" alt="ASCII Portrait" /></td>
-    <td valign="top" align="center"><img src="./info-card.svg" width="500" alt="Neofetch Card" /></td>
-  </tr>
-</table>
-
-</div>
 
 ---
 
